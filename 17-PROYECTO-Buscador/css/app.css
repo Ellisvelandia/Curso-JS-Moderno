@@ -57,15 +57,3 @@ form {
 .error {
     background-color: red;
 }
-
-.sitio-web  {
-    color: white;
-    display: block;
-    font-size: 4rem;
-    max-width: 1200px;
-    margin: 2rem auto;
-    text-decoration: none;
-}
-.sitio-web:hover {
-    color: white;
-}
